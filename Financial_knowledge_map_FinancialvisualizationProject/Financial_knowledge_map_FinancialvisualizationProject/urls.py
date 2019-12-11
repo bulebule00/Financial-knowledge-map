@@ -15,7 +15,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-
+from . import relation_view
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', relation_view.search_entity)
 ]
