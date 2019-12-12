@@ -16,7 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from . import relation_view
+from django.conf.urls import url
+from . import index_view, index_Begin_to_identify
+#
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', relation_view.search_entity)
+    url(r'^$', index_view.index),#实体识别 1
+    path('search_entity', relation_view.search_entity),
+    url(r"Begin_to_identify", index_Begin_to_identify.Begin_to_identify),
+    url(r'^search_relation',relation_view.search_relation),#关系查询，很深 1
 ]

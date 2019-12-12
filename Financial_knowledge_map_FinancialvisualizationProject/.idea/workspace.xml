@@ -1,207 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../../自然语言12月度/Agriculture_KnowledgeGraph-master (1)/Agriculture_KnowledgeGraph-master/demo/toolkit/NER.py" description="def get_NE(text):" line="148" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ea3c19f9-86f4-4bb4-83d8-1ac571079d93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/neo_models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/docs/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/docs/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/docs/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/docs/prettify.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/docs/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/docs/styles.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/samples/bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/samples/doughnut.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/samples/line.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/samples/pie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/samples/polarArea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/samples/radar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/samples/sixup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/site/assets/6charts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/site/assets/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/site/assets/effects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/site/assets/excanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/site/assets/html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/site/assets/simple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/chart-master/site/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/GPL-LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/MIT-LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/changelog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/agenda-views.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/basic-views.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-icons_2694e8_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-icons_3d80b3_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-icons_72a7cf_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/cupertino/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/external-dragging.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/gcal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/json-events.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/json.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/selectable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/demos/theme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/fullcalendar/bootstrap-fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/fullcalendar/fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/fullcalendar/fullcalendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/fullcalendar/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/fullcalendar/fullcalendar.print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/fullcalendar/gcal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/jquery/jquery-1.8.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fullcalendar/jquery/jquery-ui-1.8.23.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-easy-pie-chart/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-easy-pie-chart/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-easy-pie-chart/examples/excanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-easy-pie-chart/examples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-easy-pie-chart/examples/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-easy-pie-chart/img/easy-pie-chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-knob/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-knob/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/jquery-knob/js/jquery.knob.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/elegant-icons-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/footable.bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/footable.bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery-jvectormap-1.2.2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery-ui-1.10.4.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/line-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style-responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/tagcloud.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/tree_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/widgets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/xcharts.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/ElegantIcons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/ElegantIcons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/ElegantIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/ElegantIcons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/arrow-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/chart-texture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/icons/line-icon-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/icons/line-icon-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/icons/line-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/icons/search-line-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/icons/social.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/icons/weather-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/icons/weather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/left-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-wysiwyg-custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-wysiwyg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/calendar-custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chartjs-custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/charts-flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/charts-other.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/charts-xcharts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/charts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/dynamic-table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/easy-pie-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/echarts.common.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/echarts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/footable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/footable.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/form-component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/form-validation-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/fullcalendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/ga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/gdp-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/gritter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/html5shiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-jvectormap-1.2.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-jvectormap-world-mill-en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-ui-1.10.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.autosize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.customSelect.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.hotkeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.localscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.nicescroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.placeholder.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.rateit.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.scrollTo.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.smartWizard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.sparkline-11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.sparkline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.stepy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.tagsinput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/lte-ie7 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/lte-ie7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/morris-script 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/morris-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/morris.min 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/morris.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/owl.carousel 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/scripts 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/sliders 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/sliders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/sparkline-chart 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/sparkline-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/sparklines 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/sparklines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/tagcloud.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/testjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/tree_control.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/xcharts.min 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/xcharts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/search_entity.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toolkit/pre_load.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/index_Begin_to_identify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/index_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/stock.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/relation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toolkit/NER.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/neo_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/neo_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/search_entity.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/search_entity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolkit/pre_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/toolkit/pre_load.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -209,16 +26,72 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Financial_knowledge_map_FinancialvisualizationProject$pre_load.coverage" NAME="pre_load Coverage Results" MODIFIED="1576067744038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toolkit" />
+  </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+              <folding>
+                <element signature="e#677#709#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Model/neo_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="50" column="95" selection-start-line="50" selection-start-column="95" selection-end-line="50" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/relation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="265" column="28" lean-forward="true" selection-start-line="265" selection-start-column="28" selection-end-line="265" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -232,6 +105,12 @@
       <find>safe</find>
       <find>.table</find>
       <find>NAN</find>
+      <find>平安银行</find>
+      <find>temporaryok</find>
+      <find>answerList</find>
+      <find>findOtherEntities</find>
+      <find>searchRelationForm</find>
+      <find>findRelationByEntity</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -240,19 +119,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/urls.py" />
         <option value="$PROJECT_DIR$/templates/1.html" />
         <option value="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/settings.py" />
-        <option value="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py" />
-        <option value="$PROJECT_DIR$/Model/neo_models.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/index_view.py" />
         <option value="$PROJECT_DIR$/templates/search_entity.html" />
+        <option value="$PROJECT_DIR$/templates/detail.html" />
+        <option value="$PROJECT_DIR$/toolkit/pre_load.py" />
+        <option value="$PROJECT_DIR$/toolkit/NER.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/index_Begin_to_identify.py" />
+        <option value="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/urls.py" />
+        <option value="$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py" />
+        <option value="$PROJECT_DIR$/templates/relation.html" />
+        <option value="$PROJECT_DIR$/Model/neo_models.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="387" />
-    <option name="width" value="1432" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="315" />
+    <option name="y" value="77" />
+    <option name="width" value="1498" />
+    <option name="height" value="967" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -280,11 +168,6 @@
             <path>
               <item name="Financial_knowledge_map_FinancialvisualizationProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Financial_knowledge_map_FinancialvisualizationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Financial_knowledge_map_FinancialvisualizationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Financial_knowledge_map_FinancialvisualizationProject" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -303,8 +186,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\HTQDPC\Desktop\项目文件\Financial-knowledge-map\Financial_knowledge_map_FinancialvisualizationProject" />
+      <recent name="C:\Users\HTQDPC\Desktop\项目文件\Financial-knowledge-map\Financial_knowledge_map_FinancialvisualizationProject\templates" />
+      <recent name="C:\Users\HTQDPC\Desktop\项目文件\Financial-knowledge-map\Financial_knowledge_map_FinancialvisualizationProject\data" />
+      <recent name="C:\Users\HTQDPC\Desktop\项目文件\Financial-knowledge-map\Financial_knowledge_map_FinancialvisualizationProject\toolkit" />
       <recent name="C:\Users\HTQDPC\Desktop\项目文件\Financial-knowledge-map\Financial_knowledge_map_FinancialvisualizationProject\Financial_knowledge_map_FinancialvisualizationProject" />
+      <recent name="C:\Users\HTQDPC\Desktop\项目文件\Financial-knowledge-map\Financial_knowledge_map_FinancialvisualizationProject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -319,7 +205,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Django server.Financial_knowledge_map_FinancialvisualizationProject">
+    <configuration name="pre_load" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Financial_knowledge_map_FinancialvisualizationProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toolkit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toolkit/pre_load.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Financial_knowledge_map_FinancialvisualizationProject" type="Python.DjangoServer" factoryName="Django server">
       <module name="Financial_knowledge_map_FinancialvisualizationProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -344,6 +252,15 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Django server.Financial_knowledge_map_FinancialvisualizationProject" />
+      <item itemvalue="Python.pre_load" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pre_load" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -355,12 +272,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576041505601</updated>
-      <workItem from="1576041506867" duration="10612000" />
+      <workItem from="1576041506867" duration="19522000" />
+      <workItem from="1576115948565" duration="24460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10612000" />
+    <option name="totallyTimeSpent" value="43982000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,18 +290,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="203" y="42" width="976" height="783" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23093683" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.03753351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48728815" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2626728" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29469272" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3282123" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32681563" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -406,23 +325,44 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py</url>
-          <line>26</line>
+          <line>27</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/index_Begin_to_identify.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/index_Begin_to_identify.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/toolkit/NER.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/js/ga.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/1.html" />
     <entry file="file://S:/Python/Lib/asyncio/base_futures.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -465,54 +405,156 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://S:/Python/Lib/site-packages/django/urls/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Python/Lib/site-packages/pandas/core/internals/managers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1690" selection-start-line="1690" selection-end-line="1690" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/stock.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="54810">
+          <caret line="3654" column="14" lean-forward="true" selection-start-line="3654" selection-start-column="14" selection-end-line="3654" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/search_entity.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="155" column="65" lean-forward="true" selection-start-line="155" selection-start-column="65" selection-end-line="155" selection-end-column="65" />
+        <state relative-caret-position="885">
+          <caret line="150" column="13" selection-start-line="150" selection-start-column="13" selection-end-line="150" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/index_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#62#97#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Python/Lib/selectors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="314" selection-start-line="314" selection-end-line="314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="294" column="21" lean-forward="true" selection-start-line="294" selection-start-column="21" selection-end-line="294" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toolkit/NER.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Python/Lib/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://S:/Python/Lib/site-packages/django/core/handlers/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="141">
           <caret line="125" selection-start-line="125" selection-end-line="125" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py">
+    <entry file="file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/index_Begin_to_identify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="315">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toolkit/pre_load.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="390">
+          <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
           <folding>
             <element signature="e#677#709#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Model/neo_models.py">
+    <entry file="file://$PROJECT_DIR$/templates/relation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="256">
+          <caret line="265" column="28" lean-forward="true" selection-start-line="265" selection-start-column="28" selection-end-line="265" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toolkit/pre_load.py">
+    <entry file="file://$PROJECT_DIR$/Financial_knowledge_map_FinancialvisualizationProject/relation_view.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="263">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/neo_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="50" column="95" selection-start-line="50" selection-start-column="95" selection-end-line="50" selection-end-column="95" />
         </state>
       </provider>
     </entry>
