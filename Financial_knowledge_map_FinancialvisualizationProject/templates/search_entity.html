@@ -124,7 +124,7 @@
                 for(var j = 0 ; j<data.length ;j++){
                     if(data[j]['name'] === node['name']){
                         flag = 0 ;
-                        relationTarget = data[j]['id']  ;
+                        relationTarget = data[j]['id'];
                         break ;
                     }
                 }
@@ -155,8 +155,8 @@
             for (var i = 0 ; i < entityRelation[0].length ; i++){
                 relationData = {} ;
                 relationData['entity1'] = str ;
-                relationData['relation'] = entityRelation[0][i]['rel']['type'] ;
-                relationData['entity2'] = entityRelation[0][i]['entity2']['name'] ;
+                relationData['relation'] = entityRelation[0][i]['rel']['id'] ;
+                relationData['entity2'] = entityRelation[0][i]['entity2']['name'];
                 tableData.push(relationData) ;
             }
             jQuery(function(){

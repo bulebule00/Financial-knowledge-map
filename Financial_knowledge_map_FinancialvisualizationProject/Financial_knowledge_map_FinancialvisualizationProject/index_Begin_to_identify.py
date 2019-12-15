@@ -23,7 +23,7 @@ def Begin_to_identify(request):  # index页面需要一开始就加载的内容�
                 # text += "<a href='#'  data-original-title='" + get_explain(
                 #     pair[1]
                 # ) + "(暂无资料)'  data-placement='top' data-trigger='hover' data-content='" + get_detail_explain(pair[1]) + "' class='popovers'>" + pair[0] + "</a>"
-                #
+
                 # continue
                 text += "<a href='#'  data-original-title='" + pair[1]+ "(暂无资料)'  data-placement='top' data-trigger='hover' data-content='" + pair[1] + "' class='popovers'>" + pair[0] + "</a>"
                 continue

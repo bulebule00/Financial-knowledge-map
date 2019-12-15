@@ -18,11 +18,15 @@ from django.urls import path
 from . import relation_view
 from django.conf.urls import url
 from . import index_view, index_Begin_to_identify
-#
+from . import overview_view
+from . import question_answering
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^$', index_view.index),#实体识别 1
     path('search_entity', relation_view.search_entity),
     url(r"Begin_to_identify", index_Begin_to_identify.Begin_to_identify),
-    url(r'^search_relation',relation_view.search_relation),#关系查询，很深 1
+    url(r'^search_relation',relation_view.search_relation),#关系查询，很深
+    url(r'^overview', overview_view.show_overview),#树结构
+    url(r'^qa', question_answering.question_answering),  # 农知问答
 ]

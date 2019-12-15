@@ -3,7 +3,7 @@ import csv
 url_name = {}   # 预加载实体到标注的映射字典
 filePath = os.getcwd()
 import pandas as pd
-with open(filePath+'/data/stock.csv','r',encoding="utf-8") as csvfile:
+with open(filePath+'/data/GuPiao.csv','r',encoding="utf-8") as csvfile:
 	reader = csv.reader(csvfile, delimiter=',')
 	for row in reader:
 		# row = pandas.DataFrame(row, columns=["index:ID","name","code","status",":LABEL","业绩变动","预计净利润(元)","业绩变动幅度","业绩变动原因","预告类型","上年同期净利润(元)","公告日期"])
@@ -29,3 +29,9 @@ from Model.neo_models import Neo4j
 neo_con = Neo4j()   #预加载neo4j
 neo_con.connectDB()
 print('neo4j connected!')
+
+from toolkit.tree_API import TREE
+# 读取农业层次树
+tree = TREE()
+tree.read_edge(filePath+'/toolkit/micropedia_tree.txt')
+tree.read_leaf(filePath+'/toolkit/leaf_list.txt')
